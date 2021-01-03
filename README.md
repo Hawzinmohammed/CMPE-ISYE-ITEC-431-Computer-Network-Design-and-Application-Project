@@ -16,6 +16,10 @@ second you must run single or multiple client file
 in the client section you can use this commands :
 
 ls    ------> list all file inside folder
+
 get   ------> get file
+
 put   ------> send file
+
 quite ------> end program
+

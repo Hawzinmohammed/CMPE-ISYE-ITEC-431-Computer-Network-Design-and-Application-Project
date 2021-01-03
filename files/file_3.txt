@@ -1,0 +1,7 @@
+﻿Hello My name is Hawzin Mohammed 
+
+this  a file for transfer in FTP Project
+
+Good example
+
+
